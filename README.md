@@ -59,20 +59,5 @@ It allows **real-time exploration** of total sales, profit, orders, discounts, a
 
 ---
 
-## 📈 Dashboard Preview  
-![Power BI Dashboard Preview](images/sales_dashboard.png)  
-[🔗 View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=YOUR_REPORT_LINK)  
-*(Replace the image and link above with your actual Power BI dashboard preview and link.)*
-
----
-
-## 🔮 Future Work  
-- Add **forecasting visuals** using Power BI predictive analytics  
-- Automate data refresh using **PostgreSQL + Power BI Gateway**  
-- Include **customer segmentation** for deeper insights  
-- Add **country-level drill-downs** for detailed analysis  
-
----
-
 ## 📚 Data Source  
 Synthetic global sales dataset created for analytical and portfolio demonstration purposes.  
